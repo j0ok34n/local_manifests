@@ -2,7 +2,7 @@
 <manifest>
  <project path="device/lge/sm8150-common" name="j0ok34n/android_device_lge_sm8150-common.git" remote="github" revision="aosp-12" />
  <project path="device/lge/flash-common" name="anht3889/android_device_lge_flash-common.git" remote="github" revision="aosp-12" />
- <project path="device/lge/flashlmdd" name="j0ok34n/android_device_lge_flashlmdd.git" remote="github" revision="blaze" />
+ <project path="device/lge/flashlmdd" name="j0ok34n/android_device_lge_flashlmdd.git" remote="github" revision="nitrogen" />
  <project path="device/lge/common" name="anht3889/android_device_lge_common.git" remote="github" revision="aosp-12" />
  <project path="vendor/lge" name="anht3889/proprietary_vendor_lge.git" remote="github" revision="aosp" />
  <project path="kernel/lge/sm8150" name="anht3889/android_kernel_lge_sm8150.git" remote="github" revision="aosp" />
