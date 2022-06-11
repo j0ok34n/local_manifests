@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <project path="packages/apps/Settings" name="j0ok34n/android_packages_apps_Settings" remote="github" revision="12.1" />
  <project path="device/lge/sm8150-common" name="anht3889/android_device_lge_sm8150-common_new" remote="github" revision="aosp-12" />
  <project path="device/lge/flash-common" name="anht3889/android_device_lge_flash-common.git" remote="github" revision="aosp-12" />
  <project path="device/lge/flashlmdd" name="j0ok34n/android_device_lge_flashlmdd.git" remote="github" revision="awaken" />
